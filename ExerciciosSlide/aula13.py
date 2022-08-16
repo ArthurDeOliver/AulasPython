@@ -11,7 +11,7 @@ produtos = {
     'pão': 0.75,
     'refrigerante': 6 
 }
-print('esses são os nossos produtos')
+print('-Esses são os nossos produtos ')
 for i in produtos.keys():
     print(i)
 
